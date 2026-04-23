@@ -2,22 +2,22 @@
 
 ## Javascript Project 1 : Edabit problem-solving game
 
-[Edabit project Link](./JS_project1_edabit.md)
+[Edabit project Link](./Javascript_Project_1_Edabit_Game.md)
 
 ---
 
 ## Javascript Project 2 :  Writing Scripts 
 
-[Project 2 Folder link](./JS_project_2/)
+[Project 2 Folder link](./Javascript_Project_2/)
 
 ### String Manipulation Functions:
 
-[Link](./JS_project_2/String_Manipulation_Functions.js)
+[Link](./Javascript_Project_2/String_Manipulation_Functions.js)
 
 ### Array Functions:
 
-[Link](./JS_project_2/Array_Functions.js)
+[Link](./Javascript_Project_2/Array_Functions.js)
 
 ### Mathematical Functions:
 
-[Link](./JS_project_2/Mathematical_Functions.js)
+[Link](./Javascript_Project_2/Mathematical_Functions.js)
